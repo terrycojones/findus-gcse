@@ -1,0 +1,48 @@
+# Question 5a
+
+178
+
+128  10000000
+ 32    100000
+ 16     10000
+  2        10
+     --------
+     10110010
+
+# Question 5c
+
+Convert 1100 0111 into hex
+
+Do it 4 bits at a time to get C7
+
+If we had to covert binary to octal (base 8) we could do it
+three bits at a time (starting from the right):
+
+11 000 111
+ 3   0   7
+
+
+# Question 5e
+
+Shifting means multiplying (or dividing) by ten (when in base 10):
+
+Left shifting:
+53
+530
+5300
+
+Right shifting:
+5300 -> 530 -> 53 -> 5.3
+
+In binary, it's the same but multiplying or dividing by two:
+
+10 -> 100 -> 1000 -> 10000
+
+# Question 5f
+
+Add these:
+
+00110110 +
+10010110
+--------
+11001100

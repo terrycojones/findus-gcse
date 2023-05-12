@@ -1,0 +1,6 @@
+i) How much data is there?
+
+30 * 48,000 * 24 = 34560000 bits
+                 = 4320000 bytes
+                 =    4320 Kb
+                 =    4.32 Mb
