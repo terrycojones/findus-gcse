@@ -1,0 +1,12 @@
+Insertion sort - keeps a list of sorted things (initially empty) and
+one-by-one inserts things from the unsorted list (initially everything)
+into the sorted list. The insertion can be done using binary search.
+
+Binary search - look for an item in a list, splitting the list (roughly) in
+two each time by comparing to the middle item. Just like if we played the
+game of guess a number from 1 to 100 - you would start with comparing
+against the 50th number, then the 25th or 75th, etc.
+
+Merge sort - split the list into two equal pieces, and sort each sub-list,
+then merge the sorted sublists. Divide and conquer strategy.
+

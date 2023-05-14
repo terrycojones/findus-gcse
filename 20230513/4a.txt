@@ -1,0 +1,13 @@
+4a: Convert 
+
+1110 0011
+
+to hex.
+
+E3
+
+4b: Covert 105 to binary
+
+1101001
+
+64 32 16 8 4 2 1
