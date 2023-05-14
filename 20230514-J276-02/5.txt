@@ -1,0 +1,29 @@
+convert A3 to base 10 (denary)
+
+10 x 16 = 160
+ 3 x  1 =   3
+
+163
+
+
+convert it to binary:
+
+A = 1010
+3 = 0011
+
+A3 = 10100011
+
+
+# 5b: convert 1011011 to base 10 (show working)
+
+1 + 2 + 8 + 16 + 64 = 91
+
+
+# 5d:
+
+Add:
+
+10110110
+  100111
+--------
+11011101

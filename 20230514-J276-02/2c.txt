@@ -1,0 +1,5 @@
+1. Via compilation: You compile the high-level language into machine code
+   and run it directly on the CPU.
+
+2. Via interpreting: You give the program to Python (which is itself a
+   compiled program), and Python can run the high-level commands for you.
